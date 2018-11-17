@@ -27,7 +27,7 @@ DEBUG = True
 
 # ALLOWED_HOSTS = []
 # changed by me
-ALLOWED_HOSTS = ['localhost', '127.0.0.1', ' . pythonanywhere.com']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', ' . pythonanywhere.com', 'beatrizdominguez.pythonanywhere.com']
 
 
 
